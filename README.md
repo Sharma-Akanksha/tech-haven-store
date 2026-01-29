@@ -1,4 +1,4 @@
-# 🛒 Tech Haven Store - E-commerce Demo
+<img width="1871" height="878" alt="Screenshot 2026-01-29 183718" src="https://github.com/user-attachments/assets/077914dc-0cfe-4c11-826d-a13447379aaa" /># 🛒 Tech Haven Store - E-commerce Demo
 
 A fully functional React e-commerce store with intelligent coupon system where **every nth order unlocks a 10% discount** for the next qualifying order.
 
@@ -52,9 +52,17 @@ const NTH_ORDER = 5; // Configurable in src/App.jsx
 2. During order #5 checkout → Enter coupon for 10% off  
 3. Discount **auto-updates** if cart changes after applying  
 4. After order #5 completes → Coupon marked "used"  
-5. After order #9 → New coupon `SAVE10NOW` generates for order #10  
+5. After order #9 → New coupon `SAVE10NOW` generates for order #10
+
+<img width="485" height="808" alt="Screenshot 2026-01-29 183848" src="https://github.com/user-attachments/assets/a44e3d86-af04-4fec-a413-4d965cce052f" />
+<img width="524" height="857" alt="Screenshot 2026-01-29 183830" src="https://github.com/user-attachments/assets/3c534c7f-000d-46c1-8713-1303a49f3971" />
+<img width="1876" height="598" alt="Screenshot 2026-01-29 183815" src="https://github.com/user-attachments/assets/bdb7fe40-e2b9-427d-ac3a-8361c98cc4f3" />
+<img width="1837" height="843" alt="Screenshot 2026-01-29 183755" src="https://github.com/user-attachments/assets/d31a4a26-0f61-4ceb-b0ad-f8c995dbf9a4" />
+<img width="1471" height="938" alt="Screenshot 2026-01-29 183735" src="https://github.com/user-attachments/assets/befc7d66-f1b8-43a5-aa24-9e557382d3da" />
+
 
 ## 📂 Project Structure
+
 ```
 tech-haven-store/
 ├── src/
